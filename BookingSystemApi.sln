@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingSystemApi.Infrastruc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingSystemApi.Core", "BookingSystemApi.Core\BookingSystemApi.Core.csproj", "{1F14549A-039D-4057-8039-2DC586C088F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingSystemApi.Tests.Unit", "BookingSystemApi.Tests.Unit\BookingSystemApi.Tests.Unit.csproj", "{506E2458-BE79-40CA-8556-F13928B70C35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,5 +43,9 @@ Global
 		{1F14549A-039D-4057-8039-2DC586C088F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F14549A-039D-4057-8039-2DC586C088F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F14549A-039D-4057-8039-2DC586C088F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{506E2458-BE79-40CA-8556-F13928B70C35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506E2458-BE79-40CA-8556-F13928B70C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506E2458-BE79-40CA-8556-F13928B70C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506E2458-BE79-40CA-8556-F13928B70C35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

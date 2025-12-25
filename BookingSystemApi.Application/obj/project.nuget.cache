@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f1IaUJBKEzQ=",
+  "dgSpecHash": "W3L3l0Jq1A0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Application\\BookingSystemApi.Application.csproj",
+  "projectFilePath": "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Application\\BookingSystemApi.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",

@@ -700,11 +700,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Infrastructure\\BookingSystemApi.Infrastructure.csproj",
+      "projectUniqueName": "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Infrastructure\\BookingSystemApi.Infrastructure.csproj",
       "projectName": "BookingSystemApi.Infrastructure",
-      "projectPath": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Infrastructure\\BookingSystemApi.Infrastructure.csproj",
+      "projectPath": "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Infrastructure\\BookingSystemApi.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Infrastructure\\obj\\",
+      "outputPath": "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -725,8 +725,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Core\\BookingSystemApi.Core.csproj": {
-              "projectPath": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Core\\BookingSystemApi.Core.csproj"
+            "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Core\\BookingSystemApi.Core.csproj": {
+              "projectPath": "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Core\\BookingSystemApi.Core.csproj"
             }
           }
         }
@@ -741,7 +741,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -780,7 +780,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

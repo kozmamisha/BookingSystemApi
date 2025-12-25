@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "quYUNf3Wiq0=",
+  "dgSpecHash": "DA9nmCiMR2k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Persistence\\BookingSystemApi.Persistence.csproj",
+  "projectFilePath": "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Persistence\\BookingSystemApi.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

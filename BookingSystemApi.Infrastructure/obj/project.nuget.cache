@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oPnsZEff5Q8=",
+  "dgSpecHash": "OVDBOsYzWRY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Infrastructure\\BookingSystemApi.Infrastructure.csproj",
+  "projectFilePath": "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Infrastructure\\BookingSystemApi.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.http\\2.3.0\\microsoft.aspnetcore.http.2.3.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",

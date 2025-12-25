@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Core\\BookingSystemApi.Core.csproj": {}
+    "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Core\\BookingSystemApi.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Core\\BookingSystemApi.Core.csproj": {
+    "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Core\\BookingSystemApi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Core\\BookingSystemApi.Core.csproj",
+        "projectUniqueName": "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Core\\BookingSystemApi.Core.csproj",
         "projectName": "BookingSystemApi.Core",
-        "projectPath": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Core\\BookingSystemApi.Core.csproj",
+        "projectPath": "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Core\\BookingSystemApi.Core.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Core\\obj\\",
+        "outputPath": "D:\\ASPNET\\BookingSystemApi\\BookingSystemApi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
