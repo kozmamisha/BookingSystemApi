@@ -11,3 +11,16 @@ C:\Users\micha\RiderProjects\BookingSystemApi\BookingSystemApi.Core\obj\Debug\ne
 C:\Users\micha\RiderProjects\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\ref\BookingSystemApi.Core.dll
 C:\Users\micha\RiderProjects\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\BookingSystemApi.Core.csproj.AssemblyReference.cache
 C:\Users\micha\RiderProjects\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\BookingSystemApi.Core.sourcelink.json
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\bin\Debug\net9.0\BookingSystemApi.Core.deps.json
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\bin\Debug\net9.0\BookingSystemApi.Core.dll
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\bin\Debug\net9.0\BookingSystemApi.Core.pdb
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\BookingSystemApi.Core.csproj.AssemblyReference.cache
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\BookingSystemApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\BookingSystemApi.Core.AssemblyInfoInputs.cache
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\BookingSystemApi.Core.AssemblyInfo.cs
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\BookingSystemApi.Core.csproj.CoreCompileInputs.cache
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\BookingSystemApi.Core.sourcelink.json
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\BookingSystemApi.Core.dll
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\refint\BookingSystemApi.Core.dll
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\BookingSystemApi.Core.pdb
+D:\ASPNET\BookingSystemApi\BookingSystemApi.Core\obj\Debug\net9.0\ref\BookingSystemApi.Core.dll
