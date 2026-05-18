@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "f1IaUJBKEzQ=",
+  "dgSpecHash": "4aUi9FaIP8Y=",
   "success": true,
   "projectFilePath": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Application\\BookingSystemApi.Application.csproj",
   "expectedPackageFiles": [
@@ -42,7 +42,23 @@
     "C:\\Users\\micha\\.nuget\\packages\\scalar.aspnetcore\\2.8.10\\scalar.aspnetcore.2.8.10.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.0.1\\system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512",
-    "C:\\Users\\micha\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
+    "C:\\Users\\micha\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'AutoMapper' 15.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Application\\BookingSystemApi.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\micha\\RiderProjects\\BookingSystemApi\\BookingSystemApi.Application\\BookingSystemApi.Application.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }
